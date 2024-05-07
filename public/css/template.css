@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: HelveticaNeueCyr, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
